@@ -37,4 +37,3 @@ Question 6: Code Quality & Best Practices
 1.	Ensuring Validity: I followed a "clean nesting" rule—always closing tags in the reverse order they were opened—and used a validator to confirm the code was error-free. 
 2.	Best Practices: I used consistent indentation (2 spaces) and kept all my tags and attributes in lowercase to follow industry standards. 
 3.	Future Improvements: If I had more time, I would add CSS to make the signals table look more modern and JavaScript to make the "Free Signals" update automatically with live market prices. 
-
